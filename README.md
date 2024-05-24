@@ -18,7 +18,7 @@ Y si quieres poner un link tendreis que poner [Nombre que aparecerá](https://le
 
 ![Aquí ponemos una pequeña descripción de la imagen para las personas que no pueden ver y para que el buscador nos posiciones mejor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrA-9pj2Hm-n1HSAD6G0xPWBS9UTxjxBgc8A&usqp=CAU)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrA-9pj2Hm-n1HSAD6G0xPWBS9UTxjxBgc8A&usqp=CAU" alt = así se mete la descripcion en html" width="100" height = "100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrA-9pj2Hm-n1HSAD6G0xPWBS9UTxjxBgc8A&usqp=CAU" alt = "así se mete la descripcion en html" width="100" height = "100">
 
 si quiero crear una lista puedo usar_
 - esto
